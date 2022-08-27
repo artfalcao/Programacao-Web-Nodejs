@@ -3,11 +3,11 @@
 - Views - HandleBars (Template Engine)
 - Controlers - Node + Express p/ roteamento
 
-## Para trabalhar com informações do backend nas páginas - Handlebars
+## Handlebars
 npm i express-handlebars
 
-## Para criar variáveis temporárias globais para errors - Session
+## Session - Para criar variáveis temporárias globais para errors 
 npm i express-session --save
 
-## Para facilitar as solicitações de querys no BD - Sequelize
+## Sequelize
 npm i sequelize mysql2 --save
